@@ -1,0 +1,97 @@
+.attribution { font-size: 11px; text-align: center; margin: 0; padding: 0;}
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body {
+  font-family: 'Karla', sans-serif;
+}
+
+h1 {
+  margin: 0 0 4%;
+  font-weight: 700;
+}
+
+.container-fluid {
+  margin: 0;
+  padding: 0;
+}
+
+/* Top Section */
+
+.top-section {
+  background-color: #fff;
+  padding: 5% 7%;
+}
+
+.top-heading {
+  color: hsl(179, 62%, 43%);
+}
+
+.second-heading {
+  color: hsl(71, 73%, 54%);
+  font-weight: 700;
+  margin-bottom: 2%;
+}
+
+.third-heading {
+  color: hsl(218, 22%, 67%);
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+/* Bottom Left Section */
+
+.bottom-section-left {
+  background-color: hsl(179, 62%, 43%);
+  padding: 5% 7%;
+  color: #fff;
+}
+
+.price {
+  font-size: 3rem;
+}
+
+.span {
+  font-size: 1.3rem;
+  color: hsl(204, 43%, 93%);
+}
+
+.subs-p {
+  color: hsl(204, 43%, 93%);
+  font-size: 2rem;
+  margin: auto auto 10%;
+}
+
+.signup-btn {
+  background-color: hsl(71, 73%, 54%);
+  color: #fff;
+  width: 80%;
+  height: 20%;
+  margin-left: 10%;
+  margin-bottom: 5%;
+  -webkit-box-shadow: 0px 0px 8px 1px rgba(143,140,143,0.8);
+-moz-box-shadow: 0px 0px 8px 1px rgba(143,140,143,0.8);
+box-shadow: 0px 0px 8px 1px rgba(143,140,143,0.8);
+}
+
+.signup-btn:hover {
+  background-color: hsl(71, 100%, 20%);
+}
+
+/* Bottom Right Section */
+
+.bottom-section-right {
+  background-color: #4ABEBD;
+  color: #fff;
+  padding: 5% 7%;
+}
+
+.whyus {
+  margin-bottom: 10%;
+}
+
+.whyus-p {
+  color: hsl(204, 43%, 93%);
+  font-size: 1.5rem;
+  margin: 0;
+}
